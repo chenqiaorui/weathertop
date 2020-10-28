@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/akkad-base/akkad-base.iml" filepath="$PROJECT_DIR$/akkad-base/akkad-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-springboot/akkad-springboot.iml" filepath="$PROJECT_DIR$/akkad-springboot/akkad-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-base/base-persistence/base-persistence.iml" filepath="$PROJECT_DIR$/akkad-base/base-persistence/base-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-base/base-utils/base-utils.iml" filepath="$PROJECT_DIR$/akkad-base/base-utils/base-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-base/base-utils-non-db/base-utils-non-db.iml" filepath="$PROJECT_DIR$/akkad-base/base-utils-non-db/base-utils-non-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-springboot/springboot-elasticsearch/es-footman/es-footman.iml" filepath="$PROJECT_DIR$/akkad-springboot/springboot-elasticsearch/es-footman/es-footman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-base/base-persistence/persistence-domain/persistence-domain.iml" filepath="$PROJECT_DIR$/akkad-base/base-persistence/persistence-domain/persistence-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-base/base-persistence/persistence-mybatis/persistence-mybatis.iml" filepath="$PROJECT_DIR$/akkad-base/base-persistence/persistence-mybatis/persistence-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-springboot/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/akkad-springboot/springboot-elasticsearch/springboot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkad-war3/war3-web/war3-web.iml" filepath="$PROJECT_DIR$/akkad-war3/war3-web/war3-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weathertop.iml" filepath="$PROJECT_DIR$/.idea/weathertop.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-base/base-persistence" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-base/base-persistence/persistence-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-base/base-persistence/persistence-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-base/base-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-base/base-utils-non-db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-config/config-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-dist-lock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-dist-lock/dist-lock-mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-dist-lock/dist-lock-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-dist-lock/dist-lock-zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-dist-trans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-dist-trans/dist-trans-atomikos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-elasticsearch/es-footman" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-mq/mq-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-mq/mq-kafka/kafka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-mq/mq-kafka/kafka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-nosql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-springboot/springboot-nosql/nosql-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-war3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkad-war3/war3-web" charset="UTF-8" />
+  </component>
+</project>
